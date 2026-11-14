@@ -1,6 +1,6 @@
 <img src="çiçek.jpg">
-<center>
+<div style="text-align: center;">
   
 ## Hi👋, Imma Zypher1x.
-asdada
-</center>
+
+</div>
