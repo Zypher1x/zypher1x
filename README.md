@@ -1,1 +1,1 @@
-<img src="Z-Photoroom.png">
+<img src="Z.png">
